@@ -1,0 +1,7 @@
+controls 
+Player 1
+a,d to move w,s to kick
+Player 2
+left arrow right arrow key to move and up and down to kick
+
+- Wyatt
